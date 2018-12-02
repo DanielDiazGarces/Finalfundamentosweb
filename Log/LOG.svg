@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="290px" height="475px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 290000 475002"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:2362.22}
+    .fil3 {fill:none}
+    .fil0 {fill:#1A1A1A}
+    .fil1 {fill:white}
+    .fil2 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2555524146416">
+   <g>
+    <circle class="fil0" cx="144999" cy="145961" r="143992"/>
+    <g>
+     <polygon class="fil1" points="63017,52460 70441,39046 227979,39046 250016,72963 143198,237356 233504,73988 219467,52386 "/>
+     <polygon class="fil1" points="217393,67907 62019,54567 39981,88484 146800,252877 56494,89510 70530,67907 "/>
+    </g>
+   </g>
+   <g>
+    <path class="fil2" d="M89000 469791l-24843 0 0 -1449 7660 0 0 -157753 -7660 0 0 -1449 24843 0c4693,0 8453,1622 11283,4865 2829,3243 4244,7004 4244,11283l0 130425c0,4141 -1380,7521 -4141,10145 -2760,2622 -6555,3933 -11386,3933zm-8281 -1449l8177 0c2036,0 3658,-690 4901,-2071 1207,-1379 1828,-3037 1828,-4968l0 -143469c0,-4830 -2243,-7245 -6729,-7245l-8177 0 0 157753z"/>
+    <path id="1" class="fil2" d="M129957 423003l-6556 45339 7833 0 0 1449 -18633 0 0 -1449 7867 0 22359 -159202 2898 0 18012 159202 7866 0 0 1449 -24429 0 0 -1449 7834 0 -5349 -45339 -19702 0zm448 -3105l18908 0 -8557 -75529 -10351 75529z"/>
+    <polygon id="2" class="fil2" points="215320,423417 215285,310589 207211,310589 207211,309140 225843,309140 225843,310589 218184,310589 218184,471240 215285,471240 185681,310589 185681,468342 193547,468342 193547,469791 174915,469791 174915,468342 182782,468342 182782,310589 174915,310589 174915,309140 194479,309140 "/>
+    <line class="fil3 str0" x1="34918" y1="473029" x2="255081" y2= "473029" />
+   </g>
+  </g>
+ </g>
+</svg>
